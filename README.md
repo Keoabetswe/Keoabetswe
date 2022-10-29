@@ -1,5 +1,4 @@
-<img src="https://github.com/Keoabetswe/Keoabetswe/blob/master/Keo%20Nthite%20Banner.png" width=1500 height=500/>
-<h1 align="center">Hi 👋, I'm Keo</h1>
+<img src="https://github.com/Keoabetswe/Keo/blob/main/GitHub-Header.png"/>
 
 [<img align="left" alt="Personal-Website" src="https://img.shields.io/badge/-Portfolio-lightgrey" height=28 />](http://www.keonthite.co.za/)
 
