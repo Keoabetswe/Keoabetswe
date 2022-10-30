@@ -18,10 +18,15 @@
 <a href="https://medium.com/@keonthite">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 </a>
+ 
+ <a href="mailto:keonthite@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
 ---
 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keoabetswe&show_icons=true&locale=en&theme=dark&layout=compact" alt="keoabetswe" /></p>
+ 
 </div>
 </div>
