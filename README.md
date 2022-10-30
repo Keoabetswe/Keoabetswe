@@ -26,7 +26,7 @@
 ---
 
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keoabetswe&show_icons=true&locale=en&theme=dark&layout=compact" alt="keoabetswe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css,hack,shell,ruby,batchfile" alt="keoabetswe" /></p>
  
 </div>
 </div>
