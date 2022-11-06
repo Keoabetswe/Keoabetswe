@@ -25,8 +25,11 @@
 
 ---
 
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css,hack,shell,ruby,batchfile" alt="keoabetswe" /></p>
+<p float="left">  
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css,hack,shell,ruby,batchfile" alt="keoabetswe" />
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=keoabetswe&show_icons=true&theme=dark&hide=issues&count-private&locale=en" alt="keoabetswe" />
+</p>
  
 </div>
 </div>
