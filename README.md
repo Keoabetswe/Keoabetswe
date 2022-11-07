@@ -23,13 +23,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
----
-
-<p float="left">  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css,hack,shell,ruby,batchfile" alt="keoabetswe" />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=keoabetswe&show_icons=true&theme=dark&hide=issues&count-private&locale=en" alt="keoabetswe" />
-</p>
- 
+--- 
 </div>
 </div>
