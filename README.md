@@ -18,6 +18,10 @@
  <a href="https://www.freecodecamp.org/keoabetswe">
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"/>
 </a>
+ 
+ <a href="https://leetcode.com/Keoabetswe/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+</a>
 
 <a href="https://medium.com/@keonthite">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
