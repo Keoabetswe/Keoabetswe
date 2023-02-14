@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
- <a href="https://www.freecodecamp.org/keoabetswe">
+ <a href="https://www.freecodecamp.org/keo">
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"/>
 </a>
  
